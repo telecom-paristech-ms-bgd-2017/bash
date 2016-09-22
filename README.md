@@ -13,6 +13,14 @@ https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 # Help
 
 ~~~
+$ man bash
+~~~
+
+~~~
+$ bash --help
+~~~
+
+~~~
 $ man man
 ~~~
 
