@@ -25,3 +25,9 @@ $ man man
 ~~~
 
 :help, help, --help, --usage ...
+
+# Vim
+Pour apprendre à maîtriser l'éditeur de texte Vim:
+~~~
+$ vimtutor
+~~~
